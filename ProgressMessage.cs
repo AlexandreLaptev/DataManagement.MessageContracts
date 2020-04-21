@@ -15,7 +15,7 @@ namespace DataManagement.MessageContracts
         /// <summary>
         /// Progress status.
         /// </summary>
-        ProgressStatus Status { get; set; }
+        ProgressStatus Status { get; }
 
         /// <summary>
         /// When the message was created.

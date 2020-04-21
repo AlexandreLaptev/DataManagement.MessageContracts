@@ -4,4 +4,9 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="DatabaseUpdated.cs~RF2039a925.TMP" />
+    <None Remove="DatabaseUpdated.cs~RF204db45f.TMP" />
+  </ItemGroup>
+
 </Project>
