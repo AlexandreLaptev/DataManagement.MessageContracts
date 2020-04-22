@@ -5,7 +5,7 @@ namespace DataManagement.MessageContracts
     /// <summary>
     /// Uses by MassTransit as a message contract to send a progress message.
     /// </summary>
-    public interface ProgressMessage
+    public interface UpdateProgress
     {
         /// <summary>
         /// Progress message.
